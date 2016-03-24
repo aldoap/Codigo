@@ -12,6 +12,8 @@ namespace ConsoleApp2
         {
             //Prueba de Codigo
             Console.WriteLine("Prueba");
+
+
             Console.ReadLine();
 
             
